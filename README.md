@@ -2,6 +2,11 @@
 
 This project presents a complete demand forecasting dashboard built in Power BI using historical monthly demand data for Product A from 2021 to 2023, with a forecast extending into 2024. The dashboard supports supply chain planning, inventory optimization, and strategic decision‑making.
 
+## Dashboard Preview
+
+![Supply Chain Demand Forecast Dashboard](images/SupplyChain_DemandForecast_Dashboard_ProductA.JPG)
+
+
 ## Key Insights
 
 - Last 12 Months Demand: 7,075  
