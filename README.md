@@ -105,10 +105,7 @@ It demonstrates strong analytical capability and dashboard design skills suitabl
 ## Contact
 
 Pubudu Narayana
-
 Supply Chain & Data Analyst
-
 GitHub: https://github.com/pn-analyst
-
 LinkedIn: https://www.linkedin.com/in/?
 
